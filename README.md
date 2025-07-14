@@ -20,3 +20,5 @@ Bu bash script, MariaDB/MySQL sunucusunda geçici tabloların RAM üzerinde tutu
 
    ```bash
    wget https://github.com/OmerAti/whm-cpanel-mysqltmp/raw/main/mysql_ram_setup.sh
+   chmod 777 mysql_ram_setup.sh
+   bash mysql_ram_setup.sh
